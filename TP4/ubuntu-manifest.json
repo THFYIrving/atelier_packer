@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "name": "ubuntu",
+      "builder_type": "docker",
+      "build_time": 1750760176,
+      "files": null,
+      "artifact_id": "sha256:3699b36d3166abc33579449ecf7341d469ccf9acbda6eb6f05d67a82dda68310",
+      "packer_run_uuid": "037651a3-1486-09ab-48d8-5cfb5c7a7144",
+      "custom_data": null
+    }
+  ],
+  "last_run_uuid": "037651a3-1486-09ab-48d8-5cfb5c7a7144"
+}
